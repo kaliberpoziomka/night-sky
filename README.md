@@ -7,7 +7,7 @@ There are few things I'm looking forward to improve such as:
 - colors 
 - numbers of stars on different screen sizes
 
-#See my project and chill under night sky at:
+# See my project and chill under night sky at:
 https://kaliberpoziomka.github.io/night-sky/
 
 I'm going to make more animations, canvas is really powerful!
