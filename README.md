@@ -2,7 +2,7 @@
 
 This project was made to train my canvas animation skills.
 Tried to make a starry night with some interaction.
-I'm quite happy with functionality od the script.
+I'm quite happy with functionality of the script.
 There are few things I'm looking forward to improve such as:
 - colors 
 - numbers of stars on different screen sizes
